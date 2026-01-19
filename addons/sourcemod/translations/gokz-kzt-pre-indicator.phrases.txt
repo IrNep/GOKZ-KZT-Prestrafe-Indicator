@@ -1,0 +1,27 @@
+"Phrases"
+{
+	// =====[ CHAT MESSAGES ]=====
+	"Option - Prestrafe Indicator - Health And Armor"
+	{
+		"en"		"{grey}Your health and armor will show your prestrafe."
+		"chi"		"{grey}你现在能通过血量和护甲知道自己的地速状态了."
+	}
+	"Option - Prestrafe Indicator - Bottom"
+	{
+		"en"		"{grey}Your prestrafe indicator now show at the bottom."
+		"chi"		"{grey}你现在能在最下方查看地速状态了."
+	}
+	"Option - Prestrafe Indicator - Disable"
+	{
+		"en"		"{grey}You are now hiding prestrafe indicator."
+		"chi"		"{grey}你现在不会看到地速状态了."
+	}
+
+
+	// =====[ OPTIONS MENU ]=====
+	"Options Menu - Pre Indicator"
+	{
+		"en"		"Prestrafe Indicator(KZT)"
+		"chi"		"地速指示器(KZT)"
+	}
+}
