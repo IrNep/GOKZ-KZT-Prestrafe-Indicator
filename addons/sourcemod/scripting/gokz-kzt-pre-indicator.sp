@@ -59,6 +59,7 @@ public void OnMapInit(const char[] mapName)
 {
     char gC_HealthMapList[255];
     Handle h_healthBaseMapFile = OpenFile(gC_healthBaseMapPath, "r");
+    gB_IsHealthBaseMap = false;
     while (!IsEndOfFile(h_healthBaseMapFile))
     {
         ReadFileLine(h_healthBaseMapFile, gC_HealthMapList, sizeof(gC_HealthMapList));
